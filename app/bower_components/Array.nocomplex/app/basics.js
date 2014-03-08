@@ -1,0 +1,23 @@
+define( [
+	'./collect',
+	'./each',
+	'./first',
+	'./has',
+	'./last',
+	'./map',
+	'./onEls',
+	'./remove',
+	'./removeOneValue',
+	'./remove',
+	'./except',
+	'./exceptFn',
+	'./indexOf',
+	'./isIn',
+	'./send',
+	'./uniq',
+	'./equals',
+	'./find',
+	'./where',
+	'./findIndexOf',
+	'./findByKey'
+ ], function(){ return Array.prototype })
