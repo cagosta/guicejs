@@ -1,0 +1,6 @@
+[
+	"guicejs/GuiceExtendHook",
+	"guicejs/GuiceInjector",
+	"guicejs/guiceSeedPlugin",
+	"guicejs/guicejs"
+]
