@@ -179,9 +179,6 @@ The module is available via the scope
 window.guicejs
 ```
 
-## To do ##
-
-*  
 
 ## Documentation ##
 
